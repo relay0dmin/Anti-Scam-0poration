@@ -4,7 +4,7 @@ Anti-Scam Project — README
 
 
 
-SUMMARY
+SUMMARY:
 The Anti-Scam Project is a compact, onion-only research initiative focused on telecom fraud. We collect vetted reports, analyze infrastructure and tactics, and build defensive tooling and disruption playbooks. We recruit skilled, security-minded contributors for analysis, tooling, intel, and secure operations.
 
 
@@ -13,7 +13,7 @@ Note: All role descriptions and onboarding details are provided only after an in
 
 
 
-MISSION
+MISSION:
 Identify scam infrastructure and tactics used in telecom fraud.
 
 Collect high-quality, verifiable reports and artifacts.
@@ -25,7 +25,7 @@ Share defensive research and safe tooling while enforcing strict OPSEC.
 
 
 
-SCOPE (WHAT WE DO)
+SCOPE (WHAT WE DO):
 Passive collection and analysis of scam indicators (phone numbers, infrastructure, call patterns).
 
 Archive and classify evidence: audio clips, metadata, callflows, screenshots, and public infrastructure artifacts.
@@ -39,7 +39,7 @@ Coordinate, when lawful and appropriate, with CERTs, hosters, and law enforcemen
 
 
 
-OUT OF SCOPE (WHAT WE DO NOT DO)
+OUT OF SCOPE (WHAT WE DO NOT DO):
 Offensive cyber operations. No unauthorized access to third-party systems.
 
 No scanning, disruption, takedowns, or exploitation of systems without explicit written permission or legal authority.
@@ -51,7 +51,7 @@ No doxxing, harassment, or vigilantism.
 
 
 
-TEAM ROLES AND EXPECTATIONS
+TEAM ROLES AND EXPECTATIONS:
 
 Role details and exact responsibilities are provided after initial contact with relay0dmin over Tor. We look for contributors who bring measurable technical skills and who operate to high OPSEC standards.
 
@@ -75,7 +75,7 @@ Legal/Policy Liaison — legal review, disclosure coordination, and safe escalat
 
 
 
-VETTING AND ONBOARDING (HIGH LEVEL)
+VETTING AND ONBOARDING (HIGH LEVEL):
 
 Initial contact via Tor. Provide an encrypted technical CV and a short proof-of-skill artifact. Do not include identifying metadata.
 
@@ -87,7 +87,7 @@ Limited access granted on a need-to-know basis. Elevated privileges after probat
 
 
 
-DATA HANDLING AND OPSEC
+DATA HANDLING AND OPSEC:
 
 Redact PII by default. Only authorized analysts may access raw material and only for validated, necessary analysis.
 
@@ -105,7 +105,7 @@ Never publish raw evidence or PII without legal review and redaction.
 
 
 
-OPERATIONAL PLAYBOOK (SUMMARY)
+OPERATIONAL PLAYBOOK (SUMMARY):
 
 Triage and classify incoming reports.
 
@@ -122,7 +122,7 @@ Publish sanitized, cleared reports to partners or the public after legal review.
 
 
 
-LEGAL BOUNDARIES
+LEGAL BOUNDARIES:
 
 We operate only within applicable law. Any active measure that could constitute unauthorized access or damage requires explicit legal sign-off.
 
@@ -131,14 +131,14 @@ If you are unsure whether a planned action is lawful, consult the legal liaison 
 
  
 
-CONTACT
+CONTACT:
 
 Tor-only contact (onion): contact relay0dmin via our Tor link. The Tor contact link will be placed here in the README once published.
 Encrypted submissions and initial vetting are mandatory. Do not send identifying metadata.
 
 
 
-HOW TO APPLY (BREIF)
+HOW TO APPLY (BREIF):
 
 Obtain our PGP public key via the Tor contact after initial handshake.
 
@@ -148,7 +148,7 @@ Send the encrypted package via Tor to relay0dmin. Expect vetting instructions in
 
 
 
-FINAL NOTES
+FINAL NOTES:
 
 We prioritize measurable defensive impact over publicity. Join only if you can operate under strict OPSEC and legal constraints. Contributors must follow project rules and sign a contributor agreement before receiving elevated access.
 

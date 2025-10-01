@@ -152,4 +152,4 @@ FINAL NOTES:
 
 We prioritize measurable defensive impact over publicity. Join only if you can operate under strict OPSEC and legal constraints. Contributors must follow project rules and sign a contributor agreement before receiving elevated access.
 
-TOR LINK: xdnxkmvxth3p2dfffg5j3htmq67c2ohqkjl3c3jz7kdcrrpq2nez6cad.onion
+TOR LINK: 

@@ -1,4 +1,4 @@
-# Anti-Scam Project License
+# Anti-Scam-0poration License
 
 Copyright © 2025 Anti-Scam-0poration
 
@@ -14,3 +14,4 @@ You must:
 - Not use the Anti-Scam-0poration name or branding to imply endorsement of your work without permission.
 
 Disclaimer: The information is provided “as is,” without warranty of any kind. The Anti-Scam-0poration and its contributors are not liable for any misuse, errors, or damages arising from use of this material.
+
